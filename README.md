@@ -2,7 +2,7 @@
 
 ### 😎Hey！Don't leave when you come  
 <div align="center">
-<img src="https://t.mwm.moe/ycy/1" align="center" style="width: 100%" />
+<img src="https://t.mwm.moe/ycy" align="center" style="width: 100% height:50%" />
 </div>  
   
 
