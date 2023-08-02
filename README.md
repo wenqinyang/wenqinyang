@@ -2,7 +2,7 @@
 
 ### 😎Hey！Don't leave when you come  
 <div align="center">
-<img src="https://t.mwm.moe/ycy" align="center" width="1000" height="500"  />
+<img src="https://t.mwm.moe/ycy" align="center"/>
 </div>  
   
 
@@ -73,7 +73,15 @@
 <a href="https://github.com/wenqinyang" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
+
+<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2319260980" target="_blank">
+  <img src="https://img.shields.io/badge/QQ-%231877F2.svg?&style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ" style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:2319260980@qq.com">
+  <img src="https://img.shields.io/badge/QQ%20Mail-%23EB1923.svg?&style=for-the-badge&logo=qq%20mail&logoColor=white" alt="QQ Mail" style="margin-bottom: 5px;" />
+</a>
+
 
 <br/>  
 
