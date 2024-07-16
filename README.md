@@ -2,7 +2,7 @@
 
 ### 😎Hey！Don't leave when you come  
 <div align="center">
-<img src="https://t.mwm.moe/ycy" align="center"/>
+<img src="https://api.hanximeng.com/ranimg/api.php" align="center"/>
 </div>  
   
 
